@@ -1,0 +1,15 @@
+{
+  "name": "idea_creatingapiusingnode",
+  "version": "1.0.0",
+  "description": "this is a project using REST APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnshuShree2004/My-Project"
+  },
+  "author": "Anshu Shree",
+  "license": "ISC"
+}
